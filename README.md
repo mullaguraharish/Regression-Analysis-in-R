@@ -16,7 +16,7 @@ results precisely.
 - We use the knowledge of relational analysis in linear and non-linear regression and work upon the tasks given in the problem statement.
 - Finally, we observe our experimental results and conclude them.
 
-**For more details about the project please refer to [**"Project Report PPT.pdf"**][1]
+**For more details about the project please refer to [**"Project Report PPT.pdf"**][1]**
 
 [1]: https://github.com/mullaguraharish/Regression-Analysis-in-R/blob/main/Project%20Report.pdf "Title"
 [2]: https://www.kaggle.com/kumarajarshi/life-expectancy-who "Title"
