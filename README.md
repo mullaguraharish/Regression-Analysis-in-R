@@ -8,7 +8,7 @@ Regression Analysis for establishing a relation between response and regressor v
   * 1) Does Life Expectancy have positive or negative relationship with drinking alcohol?
   * 2) Report your relation analysis with the following approaches
         * Simple linear regression analysis.
-   * Simple non-linear regression analysis.
+        * Simple non-linear regression analysis.
   * 3) Calculate R 2 values in each of the above-mentioned case and finally conclude your
 results precisely.
 
