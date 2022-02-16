@@ -1,10 +1,10 @@
 # Regression-Analysis-in-R
 
-## Project Name:
+## Project Name
 Regression Analysis for establishing a relation between response and regressor variables.
 
 ## Problem Statement
-* We are given a life expectancy dataset. We need to solve taks such as
+* We are given a [**"life expectancy dataset"**][2]** .We need to solve taks such as
   * 1) Does Life Expectancy have positive or negative relationship with drinking alcohol?
   * 2) Report your relation analysis with the following approaches
         * Simple linear regression analysis.
@@ -19,7 +19,7 @@ results precisely.
 **For more details about the project please refer to [**"Project Report PPT.pdf"**][1]**
 
 [1]: https://github.com/mullaguraharish/Regression-Analysis-in-R/blob/main/Project%20Report.pdf "Title"
-
+[2]: https://www.kaggle.com/kumarajarshi/life-expectancy-who "Title"
 
 ## Get Started
 
@@ -27,9 +27,9 @@ The below steps show how to get started with the code running!.
 - We need to have R installed in our computer.
 - Its better if R studio is also installed for easier code execution.
 - The packages mentioned in the top of the code must be intsalled.
-- The Life Expectancy Dataset must be installed for using/importing it.
+- The Life Expectancy Dataset must be downloaded for using/importing it.
 
-By following these steps, the code will start executing smoothly without no errors. 
+By following above steps, the code will start executing smoothly without no errors. 
 
 ## Group Members
 
