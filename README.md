@@ -5,11 +5,11 @@ Regression Analysis for establishing a relation between response and regressor v
 
 ## Problem Statement
 - We are given a life expectancy dataset. We need to solve taks such as
-  - a) Does Life Expectancy have positive or negative relationship with drinking alcohol?
-  - b) Report your relation analysis with the following approaches
-        - 1. Simple linear regression analysis.
-        - 2. Simple non-linear regression analysis.
-  - c) Calculate R 2 values in each of the above-mentioned case and finally conclude your
+  1) Does Life Expectancy have positive or negative relationship with drinking alcohol?
+  2) Report your relation analysis with the following approaches
+    a) Simple linear regression analysis.
+    b) Simple non-linear regression analysis.
+  3) Calculate R 2 values in each of the above-mentioned case and finally conclude your
 results precisely.
 
 ## Problem Solution
